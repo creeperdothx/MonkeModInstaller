@@ -83,8 +83,8 @@ namespace MonkeModManager
 
         private void LoadReleases()
         {
-            var decodedMods = JSON.Parse(DownloadSite("https://raw.githubusercontent.com/BzzzThe18th/MonkeModInfo/master/modinfo.json"));
-            var decodedGroups = JSON.Parse(DownloadSite("https://raw.githubusercontent.com/BzzzThe18th/MonkeModInfo/master/groupinfo.json"));
+            var decodedMods = JSON.Parse(DownloadSite("https://raw.githubusercontent.com/CreeperLogMat/MMMInfoPuller/master/modinfo.json"));
+            var decodedGroups = JSON.Parse(DownloadSite("https://raw.githubusercontent.com/CreeperLogMat/MMMInfoPuller/master/groupinfo.json"));
 
             var allMods = decodedMods.AsArray;
             var allGroups = decodedGroups.AsArray;
