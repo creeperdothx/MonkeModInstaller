@@ -5,6 +5,6 @@ This uses the github api to get the latest release of all these mods, so you kno
 (If you've made a mod that you want added to the installer, make a pull request in [this github](https://github.com/CreeperLogMat/MMMInfoPuller))
 
 ## Ensure that
-* Your mod uses a **.DLL** or a compatible **.ZIP** file in your release
+* Your mod uses a `.DLL` or a compatible `.ZIP` file in your release
 * You list the correct dependencies
 * Your mod is fully working
