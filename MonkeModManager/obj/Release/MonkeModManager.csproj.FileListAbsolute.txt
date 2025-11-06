@@ -1,0 +1,11 @@
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\bin\Release\MonkeModManager.exe.config
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\bin\Release\MonkeModManager.exe
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\bin\Release\MonkeModManager.pdb
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Release\MonkeModManager.csproj.AssemblyReference.cache
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Release\MonkeModManager.FormMain.resources
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Release\MonkeModManager.FormSelectPlatform.resources
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Release\MonkeModManager.Properties.Resources.resources
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Release\MonkeModManager.csproj.GenerateResource.cache
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Release\MonkeModManager.csproj.CoreCompileInputs.cache
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Release\MonkeModManager.exe
+C:\Users\logan_bvz9ql8\Downloads\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Release\MonkeModManager.pdb
