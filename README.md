@@ -2,7 +2,7 @@
 This program will install custom mods into Gorilla Tag automatically, and can be re-run in order to update the mods
 
 This uses the github api to get the latest release of all these mods, so you know you'll always be getting the latest version!
-(If you've made a mod that you want added to the installer, make a pull request here)
+(If you've made a mod that you want added to the installer, make a pull request in [this github](https://github.com/CreeperLogMat/MMMInfoPuller))
 
 ## Ensure that
 * your mod is built in the monke mod manager compatible format through `MakeRelease.ps1` (replace `netstandard2.0` with `netstandard2.1.0` in the code) or you use a DLL in your release
