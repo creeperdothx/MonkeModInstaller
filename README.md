@@ -5,6 +5,6 @@ This uses the github api to get the latest release of all these mods, so you kno
 (If you've made a mod that you want added to the installer, make a pull request in [this github](https://github.com/CreeperLogMat/MMMInfoPuller))
 
 ## Ensure that
-* your mod is built in the monke mod manager compatible format through `MakeRelease.ps1` (replace `netstandard2.0` with `netstandard2.1.0` in the code) or you use a DLL in your release
-* you list the correct dependencies
-* your mod is fully working
+* Your mod uses a '.DLL' or a compatible '.ZIP' file in your release
+* You list the correct dependencies
+* Your mod is fully working
